@@ -82,7 +82,7 @@ Works with:
 
 ---
 
-## Core Concepts (Easy Explanation)
+## Core Concepts 
 
 ### Metadata
 
